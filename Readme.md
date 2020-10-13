@@ -34,4 +34,4 @@
 [website]: https://www.evan-greer.co/
 [youtube]: https://www.youtube.com/channel/UC5It7uQ6rctmgjaqjyiGCUw
 [linkedin]: https://www.linkedin.com/in/evantkgreer/
-[medium]: https://medium.com/@etgreer91
+[medium]: https://medium.com/etgreer91
