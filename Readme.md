@@ -18,26 +18,21 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="evantk91's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evantk91&layout=compact" />
+<img align="left" alt="evantk91's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evantk91&layout=compact" /> (space)
 
 <br />
-<br />
-<br />
-<br />
+
 
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
----
 
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
 
 <img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=solarized-light" />
 
