@@ -1,5 +1,7 @@
 ## I'm a  Web Developer and Former Mechanical Engineer, Avid Music Fan, and Love Exploring!!
 
+<img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=solarized-light" />
+
 ### I am currently working on the following:
 
 - 🍤 I just launched my first full-stack application for MariPilot
@@ -39,8 +41,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=solarized-light" />
 
 
 </details>
