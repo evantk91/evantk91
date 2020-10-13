@@ -38,6 +38,7 @@
 <img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=solarized-light" />
 
 <br />
+<br />
 
 <img align="left" alt="evantk91's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evantk91&layout=compact" />
 
