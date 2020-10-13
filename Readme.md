@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=false&hide_border=true&hide_border=false" />
+<img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false" />
 
 </details>
 
