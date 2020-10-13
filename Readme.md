@@ -2,6 +2,15 @@
 
 <img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=solarized-light" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ### I am currently working on the following:
 
 - 🍤 I just launched my first full-stack application for MariPilot
