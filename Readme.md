@@ -4,11 +4,11 @@
 
 ### I am currently working on the following:
 
--🍤 I just launched my first full-stack application for MariPilot
--🌱 I’m currently learning everything I can 🤣
--💼 I’m looking to expand my web development knowledge at a company with a good mentorship culture
--🥅 2020 Goals: Start my career at a company that progressing the sharing of ideas and culture
--🙌 Fun fact: I love being anywhere where everyone is having fun
+- 🍤 I just launched my first full-stack application for MariPilot
+- 🌱 I’m currently learning everything I can 🤣
+- 💼 I’m looking to expand my web development knowledge at a company with a good mentorship culture
+- 🥅 2020 Goals: Start my career at a company that progressing the sharing of ideas and culture
+- 🙌 Fun fact: I love being anywhere where everyone is having fun
 
 ### Spotify Playing 🎧
 
