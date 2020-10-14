@@ -1,5 +1,9 @@
 ## I'm a  Web Developer and Former Mechanical Engineer, Avid Music Fan, and Love Exploring!!
 
+## 🎧 Spotify Now Playing
+
+[![Spotify](https://novatorem.evantk91.vercel.app/api/spotify)](https://open.spotify.com/user/1266565207)
+
 <img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=vue" />
 
 <br />
@@ -77,9 +81,6 @@
 <!-- START_SECTION:activity -->
 <!-- END_SECTION:activity -->
 
-## 🎧 Spotify Now Playing
-
-[![Spotify](https://novatorem.evantk91.vercel.app/api/spotify)](https://open.spotify.com/user/1266565207)
 
 </details>
 
