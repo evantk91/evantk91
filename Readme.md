@@ -77,6 +77,10 @@
 <!-- START_SECTION:activity -->
 <!-- END_SECTION:activity -->
 
+## 🎧 Spotify Now Playing
+
+[![Spotify](https://novatorem.evantk91.vercel.app/api/spotify)](https://open.spotify.com/user/1266565207)
+
 </details>
 
 [website]: https://www.evan-greer.co/
