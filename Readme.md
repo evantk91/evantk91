@@ -65,7 +65,7 @@
 
 ## 📕 Latest Blog Posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@etgreer91/how-to-render-likes-on-a-page-4d660e7ea5e4"><img src="https://github-readme-medium-recent-article.vercel.app/@etgreer91/how-to-render-likes-on-a-page-4d660e7ea5e4" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@etgreer91/0"><img src="https://github-readme-medium-recent-article.vercel.app/@etgreer91/0" alt="Recent Article 0"> 
 
 
 </details>
