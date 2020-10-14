@@ -33,6 +33,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudio.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/css3.svg" />
+<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/ruby.svg" />
 <img align="left" alt="RubyOnRails" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/rubyonrails.svg" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sass.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />
