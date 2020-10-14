@@ -37,10 +37,13 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sass.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/react.svg" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sql.svg" />
-<img align="left" alt="Git" width="26px" src="" />
-<img align="left" alt="Github" width="26px" src="" />
-<img align="left" alt="Terminal" width="26px" src="" />
+<img align="left" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postgresql.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />
+<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />
+<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/firebase.svg" />
+<img align="left" alt="heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/heroku.svg" />
+<img align="left" alt="postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" />
 
 <br />
 <br />
