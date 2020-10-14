@@ -4,18 +4,6 @@
 
 [![Spotify](https://novatorem.evantk91.vercel.app/api/spotify)](https://open.spotify.com/user/1266565207)
 
-<img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=vue" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 ### I am currently working on the following:
 
 - 🍤 I just launched my first full-stack application for MariPilot
@@ -64,6 +52,22 @@
 <br />
 <br />
 <br />
+
+<img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=vue" />
+
+<br />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 
 ## 📺 Latest YouTube Videos
 
