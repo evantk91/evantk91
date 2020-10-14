@@ -51,7 +51,7 @@
 <br />
 <br />
 
-<img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=vue" />
+<img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.evantk91.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=vue" />
 
 <br />
 <br />
@@ -62,22 +62,10 @@
 <br />
 <br />
 <br />
-
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 
 ## 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## :zap: GitHub Activity
-
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@etgreer91/how-to-render-likes-on-a-page-4d660e7ea5e4"><img src="https://github-readme-medium-recent-article.vercel.app/@etgreer91/how-to-render-likes-on-a-page-4d660e7ea5e4" alt="Recent Article 0"> 
 
 
 </details>
