@@ -22,9 +22,9 @@
 
 ### Connect with me:
 
+[<img align="left" alt="evantk91 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="evantk91 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [![Website](https://img.shields.io/website?down_message=offline&label=evan-greer.co&up_message=online&url=https%3A%2F%2Fwww.evan-greer.co%2F)][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -72,6 +72,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## :zap: GitHub Activity
+
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
 
 </details>
 
