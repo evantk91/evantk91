@@ -18,8 +18,6 @@
 [<img align="left" alt="evantk91 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [![Website](https://img.shields.io/website?down_message=offline&label=evan-greer.co&up_message=online&url=https%3A%2F%2Fwww.evan-greer.co%2F)][website]
 
-<br />
-
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudio.svg" />
@@ -56,18 +54,11 @@
 <img align="left" alt="evantk91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evantk91&show_icons=true&hide_border=false&count_private=true&theme=vue" />
 
 <br />
-
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-
-
 
 ## 📺 Latest YouTube Videos
 
