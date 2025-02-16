@@ -13,8 +13,8 @@
 
 ### I am currently working on the following:
 
-- 🍤 I just launched my first full-stack application for MariPilot
-- 🌱 I’m currently learning everything I can 🤣
+- Currently an SDK engineer for marketing tech company Iterable
+- Currently expanding my knowledge of Android development
 - 💼 I’m looking to expand my web development knowledge at a company with a good mentorship culture
 - 🥅 2020 Goals: Start my career at a company that progresses the sharing of ideas and culture
 - 🙌 Fun fact: I love being anywhere where everyone is having fun
